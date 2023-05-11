@@ -1,9 +1,4 @@
 """
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Student Id: 150989395
-Name:       Esa Särkelä
-Email:      esa.sarkela@tuni.fi
-
 Wheel of fortune -type game.
 https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)
 FEATURES MISSING:
